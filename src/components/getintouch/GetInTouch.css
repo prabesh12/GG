@@ -1,0 +1,145 @@
+.product_wrap{
+    padding-top: 60px;
+}
+.how_it_works{
+    padding-top: 60px;
+}
+.formColumn {
+	padding: 0 20px;
+}
+.getintouch{
+    padding: 60px 0px;
+}
+.how_it_works{
+    padding-top: 60px;
+}
+
+
+.formWrap {
+	background: #245448;
+	width: 100%;
+	border-radius: 20px;
+	padding: 31px 50px 30px;
+	text-align: center;
+}
+
+.formTopSection {
+	height: fit-content;
+	margin-bottom: 25px;
+}
+
+.formTopSection h3 {
+	font-family: "Caecilia LT Pro";
+	font-style: normal;
+	font-weight: 700;
+	font-size: 40.2725px;
+	line-height: normal;
+
+	text-align: center;
+
+	color: #ffffff;
+	margin-bottom: 14px;
+}
+
+.formTopSection p {
+	font-family: "Josefin Sans";
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16.7802px;
+	line-height: 22px;
+
+	text-align: center;
+
+	color: #ffffff;
+	margin: 0;
+}
+
+input,
+textarea {
+	font-family: "Josefin Sans";
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16.7795px;
+	line-height: 14px;
+	/* identical to box height, or 85% */
+
+	color: rgba(0, 0, 0, 0.5);
+	padding: 20px;
+
+	border: none;
+	outline: none;
+	border-radius: 11.1868px;
+	width: 100%;
+}
+
+input {
+	margin-bottom: 20px;
+}
+
+textarea {
+	margin-bottom: 25px;
+}
+
+button {
+	padding: 22px 54px;
+
+	font-family: "Josefin Sans";
+	font-style: normal;
+	font-weight: 600;
+	font-size: 16px;
+	line-height: 14px;
+
+	letter-spacing: 2.5px;
+	text-transform: uppercase;
+	border: none;
+	outline: none;
+	color: #029834;
+	border-radius: 8px;
+	transition: all ease 0.5s;
+}
+
+button:hover {
+	color: white;
+	background-color: #029834;
+	transition: all ease 0.5s;
+}
+
+/* ==========================Map======================== */
+
+.mapWrap {
+	padding: 0 20px;
+}
+
+.mapWrap h3 {
+	font-family: "Caecilia LT Pro";
+	font-style: normal;
+	font-weight: 850;
+	font-size: 40px;
+	line-height: 44px;
+
+	letter-spacing: 1.33304px;
+
+	color: #245448;
+	margin: 0;
+	margin-bottom: 13px;
+}
+
+.mapWrap img {
+	width: 100%;
+}
+
+.mapWrap p {
+	font-family: "Josefin Sans";
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16.7802px;
+	line-height: 22px;
+	color: #32403b;
+	margin: 0;
+	margin-bottom: 23px;
+	width: 45%;
+}
+
+
+/* ===============Footer======================= */
+

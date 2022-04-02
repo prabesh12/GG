@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;300;400;500;600;700&display=swap');
+ul{
+    margin: 0px;
+    padding: 0px;
+}
+.nav_bar{
+    display: flex;
+    padding-top: 10px;
+    justify-content: space-around;
+    align-items: center;
+    height: 70px;
+}
+ul.nav_bar li {
+    list-style: none;
+}
+ul.nav_bar li a{
+    text-decoration: none;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    /* color: #029834; */
+    color: #8A8888;
+}
+ul.nav_bar li a:hover{
+    text-decoration: none;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    color: #029834;
+    border-bottom: 1px solid #029834;   
+
+}
+ul.nav_bar li a:visited{
+    border-bottom: 1px solid #029834;   
+}

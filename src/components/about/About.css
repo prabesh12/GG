@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;300;400;500;600;700&family=Libre+Baskerville:wght@400;700&display=swap');
+ 
+ .about{
+    padding-top: 60px;
+ }
+ .content{
+    padding: 80px 20px 0px 0px;
+}
+.content h2{
+    font-family: "Libre Baskerville";
+    font-style: normal;
+    font-weight: 850;
+    font-size: 40px;
+    line-height: 44px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 1.33304px;
+    color: #245448;
+}
+.content p{
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.2px;
+    color: #4F5152;
+}
+.about_img img{
+    width: 100%;
+}

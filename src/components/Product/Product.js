@@ -6,7 +6,7 @@ import Card from "./Card";
 const Product = () => {
   return (
     <>
-      <div className="container" >
+      <div className="product_wrap container" >
         <div className="row">
           <Wrapper>
             <Heading>Our Products</Heading>
@@ -37,6 +37,9 @@ const Product = () => {
 };
 const ItemContainer = styled.div``;
 
+const product_wrap = styled.div`
+padding: 40px 0px;
+`;
 
 const Wrapper = styled.div`
   display: flex;
