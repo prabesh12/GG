@@ -5,9 +5,11 @@ const Banner = () => {
   return (
     <>
       <div
-        id="carouselExampleSlidesOnly"
+        id="banner"
         className="carousel slide"
         data-ride="carousel"
+        // style={{marginTop:"100px"}}
+      
       >
         <div className="carousel-inner">
           <div className="carousel-item active">

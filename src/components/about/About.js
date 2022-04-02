@@ -5,7 +5,7 @@ import './About.css'
 const About = (props) => {
   return (
       <>
-        <div className='container'>
+        <div className='container' id='about'>
             <div className="about row">
                     <div className='col-md-6'>
                     <img className='about_img' src="../images/about1.png" alt="" />

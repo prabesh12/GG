@@ -1,41 +1,33 @@
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;300;400;500;600;700&display=swap');
-ul{
-    margin: 0px;
-    padding: 0px;
-}
 .nav_bar{
+    border: 1px solid green;
     display: flex;
     padding-top: 10px;
-    justify-content: space-around;
-    align-items: center;
+    justify-content: right;
+    align-items: flex-end;
     height: 70px;
 }
 ul.nav_bar li {
     list-style: none;
 }
-ul.nav_bar li a{
+ul.nav_bar li Link{
     text-decoration: none;
     font-family: 'Josefin Sans';
     font-style: normal;
     font-weight: 600;
-    font-size: 14px;
+    font-size: 1em;
     line-height: 24px;
-    display: flex;
-    align-items: center;
     letter-spacing: 0.05em;
     text-transform: uppercase;
-    /* color: #029834; */
     color: #8A8888;
 }
-ul.nav_bar li a:hover{
+ul.nav_bar li Link:hover{
     text-decoration: none;
     font-family: 'Josefin Sans';
     font-style: normal;
     font-weight: 600;
     font-size: 14px;
-    line-height: 24px;
-    display: flex;
-    align-items: center;
+    line-height: 24px;  
     color: #029834;
     border-bottom: 1px solid #029834;   
 

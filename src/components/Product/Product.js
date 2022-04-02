@@ -6,7 +6,7 @@ import Card from "./Card";
 const Product = () => {
   return (
     <>
-      <div className="product_wrap container" >
+      <div className="product_wrap container" id="our_product">
         <div className="row">
           <Wrapper>
             <Heading>Our Products</Heading>

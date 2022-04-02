@@ -6,7 +6,7 @@ import Card from "./Card";
 const HowItWork = () => {
   return (
     <>
-      <div className="how_it_works container">
+      <div className="how_it_works container" id="how_it_works">
         <div className="row">
           <Wrapper>
             <Heading>How it Works</Heading>

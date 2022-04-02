@@ -12,13 +12,13 @@ import About from "./components/about/About";
 function App() {
   return (
     <>
-    <Header/>
-    <Banner/>
-    <HowItWork/>
-    <Product/>
-    <About/>
-    <GetInTouch/>
-    <Footer/>
+             <Header />
+             <Banner />
+             <HowItWork />
+             <Product />
+             <About />
+             <GetInTouch />
+             <Footer />
     </>
   );
 }
